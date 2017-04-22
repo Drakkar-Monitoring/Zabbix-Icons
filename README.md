@@ -10,7 +10,7 @@ Em breve iremos publicar uma nova versão focada em ícones de serviços.
 
 * [Arquivos prontos no formato .pgn](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V1/tree/master/icons)
 
-* [Arquivos Fontes para gerar icones] (https://github.com/Drakkar-Monitoring/Zabbix-Icons-V1/tree/master/origin) 
+* [Arquivos Fontes para gerar icones](https://github.com/Drakkar-Monitoring/Zabbix-Icons-V1/tree/master/origin) 
 
 
 #### Ícones
