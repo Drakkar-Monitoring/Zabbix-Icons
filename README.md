@@ -35,5 +35,5 @@ Tema Escuro
 #### Equipe
 | Colaborador | email |
 | ----- | ---- |
-| Douglas Vinicius Esteves  |  douglase@ccuec.unicamp.br |
-| Allan Gustavo de Souza |  agsouza@ccuec.unicamp.br|
+| Douglas Vinicius Esteves  |  douglase@unicamp.br |
+| Allan Gustavo de Souza |  agsouza@unicamp.br|
